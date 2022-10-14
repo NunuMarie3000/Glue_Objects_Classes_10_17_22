@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/bin/Debug/net6.0/Classes
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/bin/Debug/net6.0/Classes.deps.json
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/bin/Debug/net6.0/Classes.dll
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/bin/Debug/net6.0/Classes.pdb
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.dll
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/refint/Classes.dll
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.pdb
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/GlueDay_10_17_22_Obj/Classes/obj/Debug/net6.0/ref/Classes.dll
