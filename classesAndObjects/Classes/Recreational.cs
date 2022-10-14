@@ -5,18 +5,22 @@ namespace Wellness.Classes
     public override string Category { get; set; } = "Recrational";
   }
 
-  public class Hug : Recreational
+  public class PhysicalContact : Recreational
   {
     public override string typeOfObject { get; set; } = "Physical Contact";
-    public override string Name { get; set; } = "Hug";
-    public override int numberNeededForRelief { get; set; } = 8;
+    public override string Name { get; set; }
+    public override int numberNeededForRelief { get; set; }
+    public PhysicalContact(string activity)
+    {
+      Name = activity;
+    }
   }
 
-  public class FriendAndFamilyTime : Recreational
+  public class EmotionalIntimacy : Recreational
   {
     public override string typeOfObject { get; set; } = "Emotional Intimacy";
     public override string Name { get; set; }
-    public FriendAndFamilyTime(string activity)
+    public EmotionalIntimacy(string activity)
     {
       Name = activity;
     }
